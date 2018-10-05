@@ -2,8 +2,13 @@ body {
     background-color: grey;
 }
 
+
+ul{
+    background-color: black;
+}
+
 ul li{
     display: inline;
-    background-color: black;
+
     color:white;
 }
